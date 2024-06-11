@@ -4,4 +4,4 @@
 2. Contabilidad.
 3. Entornos Virtuales.
 4. Diseño.
-5. Carrera agregada desde GitHub, hacer el commit
+5. Contabilidad, hacer el commit
