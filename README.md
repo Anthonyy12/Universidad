@@ -10,4 +10,4 @@ Este proyecto es de pruebas
 
 # Primer cambio desde GitHub
 
-1. Cambio desde el repositorio local
+1. Cambio desde el repositorio de GitHub
